@@ -1,4 +1,8 @@
 ---
+genres:
+  - tabletop
+  - strategy
+  - party
 directors_cut: https://space-four.herokuapp.com
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
